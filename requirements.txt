@@ -1,0 +1,7 @@
+numpy
+opencv-python
+tensorflow
+picamera2
+RPi.GPIO
+pyserial
+pynmea2

@@ -1,18 +1,12 @@
-# ==========================
 # Python
-# ==========================
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
 
 # Virtual Environment
 venv/
 .venv/
 env/
-
-# Environment Variables
-.env
-.env.*
 
 # VS Code
 .vscode/
@@ -23,30 +17,13 @@ env/
 # Logs
 *.log
 
-# Temporary Files
-*.tmp
-*.bak
+# Environment
+.env
 
-# Python Cache
-.pytest_cache/
-.mypy_cache/
+# Node
+node_modules/
 
-# Build
-build/
-dist/
-*.egg-info/
-
-# Operating System Files
+# OS Files
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Node Modules
-node_modules/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Compiled Files
-*.pyc
-*.pyo
