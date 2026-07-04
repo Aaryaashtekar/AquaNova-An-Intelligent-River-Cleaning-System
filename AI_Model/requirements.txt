@@ -1,6 +1,6 @@
 numpy
 opencv-python
-tflite-runtime
+tensorflow
 picamera2
 RPi.GPIO
 pyserial
