@@ -174,6 +174,9 @@ AI_Model/aquanova.py
 - pyserial
 - pynmea2
 
+# Documentation
+- Google Drive Link - https://drive.google.com/drive/folders/1NKstU0srFNPeaQcuCGpFDXGXmA3C_vuP?usp=drive_link
+
 # Contributors
 
 - Aarya Ashtekar
